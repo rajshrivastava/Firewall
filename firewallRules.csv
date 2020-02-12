@@ -1,0 +1,8 @@
+,Direction,Protocol,Port,IP Address
+0,inbound,tcp,80,192.168.1.2
+1,inbound,tcp,234-1231,192.168.1.2
+2,inbound,udp,53,192.168.1.1-192.168.2.5
+3,outbound,tcp,10000-20000,192.168.10.11
+4,outbound,udp,1000-2000,52.12.48.92
+5,outbound,udp,11-12,192.168.10.11-192.192.20.11
+6,outbound,udp,11-12,0.0.0.0 - 1.1.1.23
