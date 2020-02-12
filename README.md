@@ -1,8 +1,7 @@
 # Firewall
 Implementation of a basic firewall in Python
 
-**Following are the description of the files included**:
-
+**Following are the description of the files included**:\
 a. setRules.py: contains code to define rules and save to a csv file.
 b. firewallRules.csv: firewall rules for accepting a packet.
 c. firewall.py: contains the Firewall class
